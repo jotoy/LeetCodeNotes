@@ -1,6 +1,6 @@
 # LeetCodeNotes
 ---
-- Please do not creat new ==[issue]==(https://github.com/jotoy/LeetCodeNotes/issues), because all the solutions are listed in the issue.
+- Please do not creat new [issue](https://github.com/jotoy/LeetCodeNotes/issues), because all the solutions are listed in the issue.
 
 |Type|Num|Title|
 |----|---|-----|
